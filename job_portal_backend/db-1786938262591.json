@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Yashwanth",
+      "email": "yashwanth@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "password": "rahul123"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "React Developer",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "type": "Full Time",
+      "salary": "9 LPA",
+      "experience": "2 Years",
+      "category": "Frontend",
+      "description": "Looking for a React developer with Redux knowledge and strong frontend fundamentals."
+    },
+    {
+      "id": "2",
+      "title": "Python Developer",
+      "company": "TCS",
+      "location": "Bangalore",
+      "type": "Full Time",
+      "salary": "7 LPA",
+      "experience": "1 Year",
+      "category": "Backend",
+      "description": "Python developer with Django, REST API and database experience."
+    },
+    {
+      "id": "3",
+      "title": "Java Full Stack Developer",
+      "company": "Wipro",
+      "location": "Chennai",
+      "type": "Hybrid",
+      "salary": "9 LPA",
+      "experience": "3 Years",
+      "category": "Full Stack",
+      "description": "Spring Boot, React and MySQL experience required."
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Designer",
+      "company": "Accenture",
+      "location": "Pune",
+      "type": "Remote",
+      "salary": "6 LPA",
+      "experience": "1 Year",
+      "category": "Design",
+      "description": "Create intuitive product experiences using Figma and modern design systems."
+    },
+    {
+      "id": "5",
+      "title": "Data Analyst",
+      "company": "Capgemini",
+      "location": "Noida",
+      "type": "Full Time",
+      "salary": "9 LPA",
+      "experience": "2 Years",
+      "category": "Analytics",
+      "description": "SQL, Excel and Power BI experience required for business reporting and analysis."
+    },
+    {
+      "id": "6",
+      "title": "Node.js Developer",
+      "company": "Cognizant",
+      "location": "Hyderabad",
+      "type": "Remote",
+      "salary": "8.5 LPA",
+      "experience": "2 Years",
+      "category": "Backend",
+      "description": "Build REST APIs with Node.js and Express and work with modern databases."
+    },
+    {
+      "id": "7",
+      "title": "Frontend Developer",
+      "company": "Tech Mahindra",
+      "location": "Visakhapatnam",
+      "type": "Internship",
+      "salary": "25000/month",
+      "experience": "Fresher",
+      "category": "Frontend",
+      "description": "HTML, CSS, JavaScript and React internship for fresh graduates."
+    },
+    {
+      "id": "8",
+      "title": "Backend Developer",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "type": "Full Time",
+      "salary": "9 LPA",
+      "experience": "2 Years",
+      "category": "Backend",
+      "description": "Backend Developer with knowledge of Python, Django, REST APIs and MySQL."
+    }
+  ],
+  "savedJobs": []
+}
